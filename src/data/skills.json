@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "/node.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "/javascriptIcon.png"
+    },
+    {
+      "title": "Dart",
+      "imageSrc": "/dartIcon.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "/CIcon.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "/githubIcon.png"
+    },
+    {
+      "title": "Wireframing",
+      "imageSrc": "/wireframeIcon.png"
+    }
+    
+  ]

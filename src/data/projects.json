@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Portfolio website",
+      "imageSrc": "/portfolio.png",
+      "description": "This is my personal website, designed to showcase my skills in HTML and CSS. It incorperates React, NodeJS, and JSON for functionality and modern web development practices",
+      "skills": ["React", "JSON", "Node", "HTML", "CSS"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "GetFit app",
+      "imageSrc": "/getfit.png",
+      "description": "This collaborative Android Studio project allows users to log in with Google Authentication, save personal exercise data, track strength progress, and stay updated on their workout split through an integrated calendar.",
+      "skills": ["Android Studio", "Dart", "JSON", "Database", "Flutter"],
+      "source": "https://github.umn.edu/hoyt0084/GroupBetaGetFit"
+    },
+    {
+      "title": "Beta Books",
+      "imageSrc": "/betabooks.png",
+      "description": "This project expands on our previous work, where we extended our code to create a platform allowing users to search for books, view details, compare prices and ratings, and watch review videos.",
+      "skills": ["Android Studio", "Dart", "JSON", "Database", "Flutter", "Extensibility"],
+      "source": "https://github.umn.edu/hoyt0084/BetaBooks"
+    }
+  ]
