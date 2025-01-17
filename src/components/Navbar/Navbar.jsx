@@ -12,7 +12,7 @@ export const Navbar = () => {
         <img
             className={styles.menuBtn}
             src={menuOpen ? "/closeIcon.png" : "/menuIcon.png"}
-            alt="menu-button"
+            alt="menu-button" loading="lazy"
             onClick={() => setMenuOpen(!menuOpen)}
         />
             <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}

@@ -8,15 +8,15 @@ export const Contact = () => {
         </div>
         <ul className={styles.links}>
             <li className={styles.link}>
-                <img src={"/emailIcon.png"} alt="Email Icon"/>
+                <img src={"/emailIcon.png"} alt="Email Icon" loading="lazy"/>
                 <a href="mailto:abtowey@live.com">abtowey@live.com</a>
             </li>
             <li className={styles.link}>
-                <img src={"/linkedinIcon.png"} alt="Linkedin Icon"/>
+                <img src={"/linkedinIcon.png"} alt="Linkedin Icon" loading="lazy"/>
                 <a href="https://www.linkedin.com/in/alex-towey-026581344/">Linkedin.com/AlexTowey</a>
             </li>
             <li className={styles.link}>
-                <img src={"/githubIcon.png"} alt="gitHub Icon"/>
+                <img src={"/githubIcon.png"} alt="gitHub Icon" loading="lazy"/>
                 <a href="https://github.umn.edu/TOWEY039">github.com/TOWEY039</a>
             </li>
         </ul>

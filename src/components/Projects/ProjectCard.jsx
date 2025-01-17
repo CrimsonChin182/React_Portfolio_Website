@@ -7,7 +7,7 @@ export const ProjectCard = ({ project }) => {
     return (
         <div className={styles.container}>
             
-                <img className={styles.Image} src={imageSrc} alt={`Image of ${title}`} />
+                <img className={styles.Image} src={imageSrc} alt={`Image of ${title}`} loading="lazy"/>
                 <div>
                     <h3 className={styles.title}>{title}</h3>
                     <p className={styles.description}>{description}</p>
