@@ -6,5 +6,13 @@
       "endDate": "Present",
       "experiences": ["Bachelor's degree in Computer Science, May 2025", "Minor in Computer Engineering, May 2025"],
       "imageSrc": "/umdIcon.png"
+    },
+    {
+      "role": "Freelance Web Developer",
+      "organisation": "Princess In Command Crafts",
+      "startDate": "February, 2025",
+      "endDate": "March, 2025",
+      "experiences": ["Developed a fully responsive business website for Princess In Command Crafts", "Independently managed the entire project, from initial planning and client communication to development, testing, and deployment.", "Configured domain and hosting for the website, ensuring a seamless and professional online launch.", "Provided ongoing support and troubleshooting to optimize website performance and functionality."],
+      "imageSrc": "/jenLogo.jpg"
     }
   ]

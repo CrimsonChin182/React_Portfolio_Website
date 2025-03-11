@@ -3,21 +3,28 @@
       "title": "Portfolio website",
       "imageSrc": "/portfolio.png",
       "description": "This is my personal website, designed to showcase my skills in HTML and CSS. It incorperates React, NodeJS, and JSON for functionality and modern web development practices",
-      "skills": ["React", "JSON", "Node", "HTML", "CSS"],
-      "source": "https://www.github.com"
+      "skills": ["React", "JSON", "Node", "HTML", "CSS", "JavaScript"],
+      "source": "https://github.com/CrimsonChin182/React_Portfolio_Website"
+    },
+    {
+      "title": "Princess In Command Crafts",
+      "imageSrc": "/jenWebImg.png",
+      "description": "Developed a fully responsive business website using React, HTML, CSS, and JavaScript for Princess In Command Crafts to enhance its online presence and user engagement.",
+      "skills": ["React", "JSON", "Node", "HTML", "CSS", "JavaScript"],
+      "source": "https://resplendent-meringue-97dbc7.netlify.app/"
     },
     {
       "title": "GetFit app",
       "imageSrc": "/getfit.png",
       "description": "This collaborative Android Studio project allows users to log in with Google Authentication, save personal exercise data, track strength progress, and stay updated on their workout split through an integrated calendar.",
       "skills": ["Android Studio", "Dart", "JSON", "Database", "Flutter"],
-      "source": "https://github.umn.edu/hoyt0084/GroupBetaGetFit"
+      "source": "https://github.com/CrimsonChin182/GetFitApp"
     },
     {
       "title": "Beta Books",
       "imageSrc": "/betabooks.png",
       "description": "This project expands on our previous work, where we extended our code to create a platform allowing users to search for books, view details, compare prices and ratings, and watch review videos.",
       "skills": ["Android Studio", "Dart", "JSON", "Database", "Flutter", "Extensibility"],
-      "source": "https://github.umn.edu/hoyt0084/BetaBooks"
+      "source": "https://github.com/CrimsonChin182/BetaBooks"
     }
   ]
